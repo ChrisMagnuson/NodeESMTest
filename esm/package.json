@@ -1,0 +1,5 @@
+{
+    "Name": "ESMJS",
+    "main": "esm.js",
+    "type": "module"
+}
